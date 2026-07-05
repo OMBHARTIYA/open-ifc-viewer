@@ -32,6 +32,12 @@ IFC files are loaded locally in the browser. This demo does not upload model fil
 - No backend required
 - No model upload required
 
+## Proof for Reviewers
+
+- [Architecture summary](./docs/architecture.md): component and rendering-layer overview.
+- [Verification notes](./docs/verification.md): build command, reviewable files, and confidentiality controls.
+- [Clean-room note](./docs/clean-room-note.md): what is intentionally excluded from the public repo.
+
 ## Tech Stack
 
 - Vite
