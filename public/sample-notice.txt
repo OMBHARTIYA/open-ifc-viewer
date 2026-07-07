@@ -1,2 +1,2 @@
-Use your own local IFC file or a public sample IFC file from an official demo source.
+Use your own local IFC file or a public sample IFC file from an official open-source or learning resource.
 This repository does not include real project models or private BIM assets.

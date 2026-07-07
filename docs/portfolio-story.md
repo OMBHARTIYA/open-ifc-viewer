@@ -1,6 +1,6 @@
 # Portfolio Story
 
-Open IFC Viewer Demo is designed to show practical front-end and BIM visualization skills in a safe public format.
+Open IFC Viewer Case Study is designed to show practical front-end and BIM visualization skills in a safe public format.
 
 It highlights:
 

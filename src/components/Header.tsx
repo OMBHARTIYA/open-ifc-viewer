@@ -16,8 +16,8 @@ export function Header({ onFileChange, onResetCamera, onFitToView, isBusy }: Hea
   return (
     <header className="app-header">
       <div>
-        <p className="eyebrow">Clean-room portfolio demo</p>
-        <h1>Open IFC Viewer Demo</h1>
+        <p className="eyebrow">Clean-room portfolio case study</p>
+        <h1>Open IFC Viewer Case Study</h1>
         <p className="header-copy">
           Load a local IFC file in the browser, inspect geometry, and review object data without uploading anything to a server.
         </p>

@@ -26,7 +26,7 @@ export function EmptyState({ loading, error }: EmptyStateProps) {
     <div className="empty-state">
       <h2>Drop in a local IFC file to begin</h2>
       <p>
-        The viewer runs entirely in the browser. Use your own test model or a public sample file from an official demo source.
+        The viewer runs entirely in the browser. Use your own test model or a public sample file from an official open-source or learning resource.
       </p>
     </div>
   );

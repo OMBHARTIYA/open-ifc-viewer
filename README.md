@@ -1,12 +1,12 @@
-# Open IFC Viewer Demo
+# Open IFC Viewer Case Study
 
-Open IFC Viewer Demo is a clean-room, browser-based IFC model viewer built for portfolio and learning purposes.
+Open IFC Viewer Case Study is a clean-room, browser-based IFC model viewer built for portfolio and learning purposes.
 
 The project demonstrates how a web application can load a local IFC file, render it in a 3D viewport, support basic object selection, and display model/object information in a dashboard-style interface.
 
 ## Clean-Room Disclaimer
 
-This project was created from scratch as a portfolio demo.
+This project was created from scratch as a portfolio case study.
 
 It does not contain employer-owned source code, confidential implementation details, real company project files, real BIM models, real API endpoints, real client data, real project identifiers, private screenshots, or internal architecture from any company system.
 
@@ -14,7 +14,7 @@ The project is inspired only by the general concept of a web-based IFC/BIM viewe
 
 ## Data and Privacy Disclaimer
 
-IFC files are loaded locally in the browser. This demo does not upload model files to a server. It does not use a backend, database, telemetry, or external API for model processing.
+IFC files are loaded locally in the browser. This viewer does not upload model files to a server. It does not use a backend, database, telemetry, or external API for model processing.
 
 ## Features
 

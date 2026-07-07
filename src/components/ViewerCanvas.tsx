@@ -164,7 +164,7 @@ export const ViewerCanvas = forwardRef<ViewerActions, ViewerCanvasProps>(functio
           return;
         }
 
-        const message = error instanceof Error ? error.message : "The IFC file could not be parsed by the demo viewer.";
+        const message = error instanceof Error ? error.message : "The IFC file could not be parsed by the case-study viewer.";
         onStatusChange({ isLoading: false, error: message });
       });
 
