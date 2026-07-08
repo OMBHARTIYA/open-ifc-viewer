@@ -4,11 +4,23 @@ Open IFC Viewer Case Study is a clean-room, browser-based IFC model viewer built
 
 The project demonstrates how a web application can load a local IFC file, render it in a 3D viewport, support basic object selection, and display model/object information in a dashboard-style interface.
 
+## Reviewer Value
+
+This repo is designed to show the public-safe version of my BIM/model-linked reporting skills:
+
+- local IFC loading without server upload
+- browser-based 3D scene setup and navigation
+- selected-object inspection and model statistics
+- dashboard-style UI around model data
+- privacy-first architecture for sensitive construction files
+
+The purpose is to demonstrate the viewer architecture and model-inspection workflow without publishing employer models, client assets, internal APIs, or confidential dashboard logic.
+
 ## Clean-Room Disclaimer
 
 This project was created from scratch as a portfolio case study.
 
-It does not contain employer-owned source code, confidential implementation details, real company project files, real BIM models, real API endpoints, real client data, real project identifiers, private screenshots, or internal architecture from any company system.
+It does not contain employer-owned source code, confidential implementation details, real company project files, real BIM models, real API endpoints, customer-owned operational records, real project identifiers, private screenshots, or internal architecture from any company system.
 
 The project is inspired only by the general concept of a web-based IFC/BIM viewer.
 
