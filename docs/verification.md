@@ -34,7 +34,9 @@ Last local check:
 
 - IFC files are selected locally in the browser.
 - No model file is uploaded to a server.
-- No backend, database, telemetry, or external project API is used.
+- No application backend, database, telemetry, or external project-data API is used.
+- The open-source `web-ifc` WebAssembly runtime is currently loaded from
+  `unpkg.com`; self-hosting it would enable a fully offline deployment.
 - No real employer model, client data, internal source code, production screenshot, or proprietary workflow is included.
 
 ## Portfolio Value

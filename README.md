@@ -26,7 +26,11 @@ The project is inspired only by the general concept of a web-based IFC/BIM viewe
 
 ## Data and Privacy Disclaimer
 
-IFC files are loaded locally in the browser. This viewer does not upload model files to a server. It does not use a backend, database, telemetry, or external API for model processing.
+IFC files are loaded and parsed in the browser, and the selected model file is
+not uploaded to a server. The app does not use a backend, database, telemetry,
+or project-data API. It currently downloads the open-source `web-ifc`
+WebAssembly runtime from `unpkg.com`, so an internet connection is required
+unless that runtime is self-hosted.
 
 ## Features
 
@@ -41,8 +45,8 @@ IFC files are loaded locally in the browser. This viewer does not upload model f
 - Fit model to view button
 - Loading and error states
 - Responsive dashboard-style UI
-- No backend required
-- No model upload required
+- No application backend required
+- Model file remains in the browser
 
 ## Proof for Reviewers
 
